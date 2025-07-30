@@ -9,6 +9,6 @@ maaxboard, collect the files with
 ```
 mkdir dev-kit-microkit-manifest
 cd dev-kit-microkit-manifest
-repo init -u https://github.com/Wellplatform/sel4devkit-maaxboard-microkit-manifest.git
+repo init -u https://github.com/Wellplatform/sel4devkit-maaxboard-microkit-manifest.git --repo-url=https://mirrors.tuna.tsinghua.edu.cn/git/git-repo
 repo sync
 ```
